@@ -19,8 +19,307 @@ alt="Lion" width="640" height="240" border=10" />
 ### Ultrasound Money
                                               
 [Twitter Thread](https://twitter.com/696_eth/status/1609997942857007104) |
+                                              
+Start
+----
+                                              
+1/26 🧵 
 
+This @ultrasoundmoney 🦇🔊 talk from #devcon 6 is a 𝐌𝐔𝐒𝐓 𝐖𝐀𝐓𝐂𝐇 but here's it's in a text format 👇 
 
+Speaker(s): @drakefjustin 
+Skill Level: Beginner
+Track: Cryptoeconomics
+Keywords: $ETH , $ether , economics
+
+https://www.youtube.com/watch?v=2ZuGVLhhxQo&ab_channel=EthereumFoundation
+
+A big picture for ETH the asset and its macro cashflows. 
+Discussed unique dynamics arising from:
+💨 fee burn🔥 (Ξ for🚗 blockspace payments)
+🖨️ issuance (Ξ for validator incentivization)
+🥩 staking (Ξ for economic security 🔒 )
+🧊 collateral -defi (Ξ for economic bandwidth🪙)
+
+/2
+                                              
+⚠️Ether - asset - critical part of Ethereum - internet settlement.
+
+⛔No Ether => No Ethereum :stop
+
+🌐ETH - internet money 💧 
+
+🤝ETH and Ethereum are interconnected  
+
+/3 
+
+🌡️ Temperature of money - velocity.
+
+Think of Money as Water
+
+Spectrum of:
+・Solid 🧊 
+・Liquid 💧 
+・Gas 💨
+
+/4                                              
+
+                                              
+Layer 1 (Mainnet)
+
+🥩Staking = freezing Liquidity  
+💨Fees = 🔥burning Liquidity  
+
+/5
+                                              
+Layer 2
+
+🧊Collateral = through bounding of Liquidity🪙
+💦Currency = transacting🔁
+
+💦Currency = comes from word 'current' = money that's moving
+
+Usually people think of: money => current => high velocity use cases
+
+Need to focus on LOW velocity use cases too
+
+/6
+                                              
+Recap so far:
+💧Liquid ETH - as programmable money can be:
+🥩Staked => Security 🔒 
+💨Spent =>🔥Base fees => ♻️Sustainability, Economic Security 
+🪙Application layer => Economic Bandwidth
+🔁Transacting => Economic Activity
+
+/7
+                                              
+2 Economies:
+
+❄️ Cold economy:🥩🔒Security + 🧊🪙Bandwidth
+
+♨️ HOT economy:🔥Base fees + 🔁activity
+
+/8
+                                              
+Looking closer into each one 👇 
+
+🔒Security
+
+Security ratio = Total Value Secured (TVL) / economic security
+
+The lower Security Ratio the better
+
+Current Security ratio is 19x with 0.39T USD as TVL with the following distribution:
+
+・ETH - $162B 
+・ERC20s - $189B
+・NFTs - $23B
+
+/9
+                                              
+$2️0B of economic security. Good or Bad? 🤔 
+
+🔒Most secure blockchain! 2x of #bitcoin
+
+📈ENDGAME: Trillions of $ of economic security
+
+/10       
+                                              
+                                              
+🔒Security comes from 🥩staking - ETH deposits
+
+🖨️Issuances incentivizes people to Stake 🥩
+
+2 parts to staking:
+❄️Cold - freezing - stake 🥩
+♨️Hot - issuing ETH for validators 🖨️ 
+
+/11
+                                              
+🌾Yield from issuance 🖨️ : 
+
+When amount of ETH 
+🥩staked increases by 4x - Yield goes down by 2x 🌾
+
+・4M ETH staked = 8% Yield
+・16M ETH = 4%
+
+/12 
+                                              
+☯️ Equilibrium between🌾 Yield and Issuance🖨️
+
+Importance of $ETH price.
+
+To get to Trillions of $ we need more ETH staked (2x) and price needs to go up (25x)
+
+/13   
+                                              
+Minimizing the cost of security 🔒
+
+🖨️Issuance deludes the holders.
+
+After the Merge the issuance has go down by more than 20x compared to genesis =>
+
+Optimal issuance = relatively small issuance => ossification 🦴 
+
+Now it's very clear that ETH is critical to the security 🔒 
+
+/14                                              
+
+♻️ Sustainability
+
+Ethereum as a company. 
+
+Profits = income - expenses
+
+💵income = 🚗 blockspace sales
+
+expenses = security budget
+
+Profits = blockspace sales - security budget
+
+or in other words
+
+Profits = 🔥burn - issuance 🖨️
+
+We can look at PE ratios on @ultrasoundmoney 
+
+/15                                              
+
+Supply since the Merge +0.01%/y and we are in a bear market.
+
+if we zoom out. 
+
+🔥 We are probably going to burn more than 1%/y
+=> Negative supply growth 📉 
+
+Eventually supply will find a new equilibrium☯️
+
+/16                                              
+
+🦇🔊 - Ultrasound money meme 
+
+Put the bat signal and join ultrasound fam and spread the meme! 
+
+/17                                              
+
+Ethereum need security 🔒 
+
+Would be sustainable cause of fees collected and gas burned 
+
+What about Economic Bandwidth 🪙 ?
+
+Application layer:
+Ξ used in DEFI.
+・@MakerDAO uses 1.4M Ξ as collateral for decentralized stablecoin
+・@AaveAave uses 0.5M Ξ for decentralized loans
+
+/18                                              
+
+ETH is a pristine collateral🧊:
+✅No contract risk
+✅No custodial risk
+✅No oracle risk
+✅No bridge risk
+✅No governance risk
+
+❌ volatility
+
+To stabilize $ETH => decentralized stablecoins 🏦that are baked by Ether.
+
+🪙Current Economical Bandwidth used for that would be 2M Ξ
+
+/19                                              
+
+ΞETH is the perfect collateral money🧊  
+
+Importance of $ETH price
+
+$1B in decentralized stablecoins baked by ETH
+
+We need Trillions.
+
+Grow collateral by 15x.
+
+But then then ETH price has to grow for us to reach trillions.
+
+/20                                              
+
+Illiquidity multiplier - [1 /💧%]:
+
+Cashflows happen within the Liquid part 💧
+
+🔥Burn + Issuance🖨️are Liquid💧
+
+ETH market cap = [mcap of 💧] x [1 /💧%]
+
+[ 1 /💧%] today = 1.25x
+
+in 10 years? might be 5x => mcap of ETH x4!
+ 
+/21                                              
+
+🔁Activity:
+・fluidity 
+・liquidity
+・diversity
+・vitality
+
+Needs Scaling🌊 
+
+𝙏𝙝𝙚 𝙎𝙪𝙧𝙜𝙚 𝙞𝙨 𝙘𝙤𝙢𝙞𝙣𝙜!
+100x transactions per each:
+・rollups
+・sharding
+・Nielsen's law (Moore's law for 🪙Bandwidth) 
+
+🪙The only resources is needed for blockchains to consume
+
+/22                                              
+
+Ultra sound barrier 🦇 🔊 🚧
+
+How much each TX needs to Pay for Ethereum to be sustainable ♻️? 
+
+♻️ Sustainability = 💵 enough income to pay for 🔒 
+
+⬇️ 1million x => 3gwei/tx
+
+/23                                              
+
+🔒🚗Blockspace is a big business 💰  
+
+Daily blockspace sales have been growing 📈
+
+Induced demand: more 🚗blockspace => 🚗blockspace gets cheaper => more demand. 
+
+Thus, it is going to unlock more activity!
+
+/24                                              
+                                              
+Big picture summary - long-term:
+
+💧Total Supply - 100M ETH:
+
+🔒Security = 33M
+🥩🖨️Issuance from stake Ether => 1M/y
+🔥Burn => 1M/y
+💵Income $1Bs/day from selling 🚗blockspace
+
+🌊Scalability in play => tiny tx fees ✖️ many transactions / second => 💵𝘏𝘶𝘨𝘦 Income => Security 🔒
+
+💦Currency - 33M ETH
+🏦Stablecoins - $10Ts
+
+🧊Collateral - 33M ETH
+🪙Bandwidth - $10Ts
+
+Potential future where Ethereum has succeeded in becoming the settlement layer for the intent of value! 
+
+/26                                              
+                                              
+                                              
 ---
                                               
 [Homepage](https://evmavericks-weekly.netlify.app)
