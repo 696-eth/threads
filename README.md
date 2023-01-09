@@ -4,7 +4,7 @@
    
 <a href="https://www.youtube.com/watch?v=2ZuGVLhhxQo&t" target="_blank">
     <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-left">
-      <img src="https://i.imgur.com/aI3pPvn.png" 
+      <img src="https://i.imgur.com/CxJjU3r.png]" 
 alt="Lion" width="640" height="240" border=10" />
 </a>    
                                             
