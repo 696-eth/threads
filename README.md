@@ -1,24 +1,14 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/deep-blue.css">
-
-   
-<a href="https://www.youtube.com/watch?v=2ZuGVLhhxQo&t" target="_blank">
-    <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-left">
-      <img src="https://i.imgur.com/CxJjU3r.png]" 
-alt="Lion" width="640" height="240" border=10" />
-</a>    
-                                            
-                                                                                                                
                                              
-[Homepage](https://evmavericks-weekly.netlify.app) - *Last updated: 1/9/2023*
-
+[EVMavericks Weekly](https://evmavericks-weekly.netlify.app) - *Last updated: 1/9/2023*
 
 **[Devcan talk here](https://www.youtube.com/watch?v=2ZuGVLhhxQo&t)** |
 🧵 by **[696.eth](https://twitter.com/696_eth)**
     
 ### Ultrasound Money
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1609997942857007104) |
+[Twitter Thread]() |
                                               
 Start
 ----
@@ -43,7 +33,6 @@ Discussed unique dynamics arising from:
 
 ![1](https://i.imgur.com/qhCCzNb.png)
 
-![]()
 
 /2
                                               
@@ -55,8 +44,7 @@ Discussed unique dynamics arising from:
 
 🤝ETH and Ethereum are interconnected  
 
-![]()
-
+![3](https://i.imgur.com/RKLYUV8.png)
 /3 
 
 🌡️ Temperature of money - velocity.
@@ -67,7 +55,7 @@ Spectrum of:
 ・Solid 🧊 
 ・Liquid 💧 
 ・Gas 💨
-![]()
+![4](https://i.imgur.com/TQRHIoU.png)
 /4                                              
 
                                               
@@ -75,7 +63,7 @@ Layer 1 (Mainnet)
 
 🥩Staking = freezing Liquidity  
 💨Fees = 🔥burning Liquidity  
-![]()
+![5](https://i.imgur.com/bodQW48.png)
 /5
                                               
 Layer 2
@@ -88,7 +76,7 @@ Layer 2
 Usually people think of: money => current => high velocity use cases
 
 Need to focus on LOW velocity use cases too
-![]()
+![6](https://i.imgur.com/wklP2Cr.png)
 /6
                                               
 Recap so far:
@@ -97,7 +85,7 @@ Recap so far:
 💨Spent =>🔥Base fees => ♻️Sustainability, Economic Security 
 🪙Application layer => Economic Bandwidth
 🔁Transacting => Economic Activity
-![]()
+![7](https://i.imgur.com/H9BCHMn.png)
 /7
                                               
 2 Economies:
@@ -122,6 +110,7 @@ Current Security ratio is 19x with 0.39T USD as TVL with the following distribut
 ・ERC20s - $189B
 ・NFTs - $23B
 
+![9](https://i.imgur.com/edcMLlI.png)
 /9
                                               
 $2️0B of economic security. Good or Bad? 🤔 
@@ -129,7 +118,7 @@ $2️0B of economic security. Good or Bad? 🤔
 🔒Most secure blockchain! 2x of #bitcoin
 
 📈ENDGAME: Trillions of $ of economic security
-![]()
+![10](https://i.imgur.com/QW2yQx5.png)
 /10       
                                               
                                               
@@ -140,7 +129,7 @@ $2️0B of economic security. Good or Bad? 🤔
 2 parts to staking:
 ❄️Cold - freezing - stake 🥩
 ♨️Hot - issuing ETH for validators 🖨️ 
-![]()
+![11](https://i.imgur.com/T4jGT6X.png)
 /11
                                               
 🌾Yield from issuance 🖨️ : 
@@ -150,7 +139,7 @@ When amount of ETH
 
 ・4M ETH staked = 8% Yield
 ・16M ETH = 4%
-![]()
+![12](https://i.imgur.com/HnTlcQ9.png)
 /12 
                                               
 ☯️ Equilibrium between🌾 Yield and Issuance🖨️
@@ -158,7 +147,7 @@ When amount of ETH
 Importance of $ETH price.
 
 To get to Trillions of $ we need more ETH staked (2x) and price needs to go up (25x)
-![]()
+![13](https://i.imgur.com/bIjGNg7.png)
 /13   
                                               
 Minimizing the cost of security 🔒
