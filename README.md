@@ -329,13 +329,16 @@ With 🌊Scalability: 1million x transactions => 3gwei/tx ♻️
 ![](https://i.imgur.com/wHYZCFS.png)
 /23                                              
 
-🔒🚗Blockspace is a big business  
+🚗Blockspace is a big business  
 
-Daily🚗blockspace sales have been growing 📈
+Daily blockspace sales have been growing
 
-Induced demand: more 🚗blockspace => 🚗blockspace gets cheaper => attracting more demand 📈 
+Induced demand:
+Unlocks more activity🔁
+=> more blockspace🚗
+=>🚗blockspace gets cheaper 
+=> attracting more demand for blockspace🚗 
 
-Thus, it is going to unlock more activity🔁
 
 ![](https://i.imgur.com/IJC7IRB.png)
 
