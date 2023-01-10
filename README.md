@@ -373,7 +373,16 @@ Big picture summary:
 Potential future where Ethereum has succeeded in becoming the settlement layer for the internet of value! 
 
 /26                                              
-                                              
+
+Bonus:
+
+Q:
+
+A: LSD allow to get the priveleage of unstaking immediately while paying a small fee to Marketmakers, thus market makers unstaking some ETH but someone else would come in with ETH to stake because of equilibrium. 
+Total # of E = illiquid iceberg
+cant melt cause melting a part creates another ice on the other side
+
+same as induced demand
                                               
 ---
                                               
