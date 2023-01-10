@@ -178,7 +178,7 @@ To get to Trillions of $ we need more ETH staked (2x) and price needs to go up (
                                               
 Minimizing the cost of security.
 
-Issuance deludes the holders.
+Issuance dilutes the holders.
 
 After the Merge the issuance has go down by more than 20x compared to genesis =>
 
