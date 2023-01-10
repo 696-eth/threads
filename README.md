@@ -44,7 +44,7 @@ Discussed unique dynamics arising from:
 
 /2
                                               
-Ether - asset - critical part of Ethereum - internet settlement.
+Ether = asset - critical part of - Ethereum = internet settlement.
 
 No Ether => No Ethereum
 
