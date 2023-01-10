@@ -13,7 +13,7 @@
 Start
 ----
                                               
-1/26 🧵 
+1/30 🧵 
 
 This @ultrasoundmoney 🦇🔊 talk from #devcon 6 by Justin Drake is a 𝐌𝐔𝐒𝐓 𝐖𝐀𝐓𝐂𝐇 - here it's in a text format 👇 
 
@@ -90,10 +90,11 @@ Layer 2
 
 Usually people think of 'money' => current => high velocity use cases
 
-Need to focus on LOW velocity use cases too: using ETH as a collateral is a use of money!
+Need to focus on the LOW velocity use cases too: using ETH as a collateral is a use of money!
 
 ![](https://i.imgur.com/wklP2Cr.png)
-/6 + 7 combined
+
+/6
                                               
 💧Liquid ETH - as programmable money can be:
 
@@ -105,7 +106,7 @@ Need to focus on LOW velocity use cases too: using ETH as a collateral is a use 
 
 ![](https://i.imgur.com/H9BCHMn.png)
 
-/8
+/7
                                               
 Looking closer into each one 👇 
 
@@ -115,7 +116,7 @@ Security ratio = Total Value Secured (TVS) / economic security
 
 = value secured by Ethereum / valuing securing Ethereum 🥩
 
-The lower Security Ratio the better
+The lower Security Ratio the better!
 
 Current Security ratio is 19x with $390T as TVL with the following distribution:
 
@@ -127,17 +128,17 @@ Current Security ratio is 19x with $390T as TVL with the following distribution:
 
 ![](https://i.imgur.com/edcMLlI.png)
 
-/9
+/8
                                               
 $2️0B of economic security. Good or Bad?
 
 Most secure blockchain! 2x of #bitcoin
 
-ENDGAME: Trillions of $ of economic security
+ENDGAME: Trillions of $ of economic security!
 
 ![](https://i.imgur.com/QW2yQx5.png)
 
-/10       
+/9      
                                               
                                               
 🔒Security comes from 🥩staking - ETH deposits
@@ -152,7 +153,7 @@ Staking has 2 parts:
 
 ![](https://i.imgur.com/T4jGT6X.png)
 
-/11
+/10
                                               
 🌾Yield from issuance🖨️: 
 
@@ -166,17 +167,17 @@ Staking has 2 parts:
 
 ![](https://i.imgur.com/HnTlcQ9.png)
 
-/12 
+/11 
                                               
 Equilibrium may be reached at ~2x ETH staked🥩
 
-But Ether appreciating (x25) gets to trillions of $ staked🥩= 
+But Ether appreciating (x25) gets to trillions of $ staked🥩 
 
 That's why ETH price is important.
 
 ![](https://i.imgur.com/bIjGNg7.png)
 
-/13   
+/12   
                                               
 Minimizing the cost of security.
 
@@ -190,7 +191,7 @@ Now it's very clear that ETH is critical to Ethereum's security 🔒
 
 ![](https://i.imgur.com/83ewASB.png)
 
-/14                                              
+/13                                              
 
 ♻️ Sustainability
 
@@ -208,30 +209,30 @@ or in other words
 
 Profits = 🔥burn - issuance 🖨️
 
-We can look at PE ratios on @ultrasoundmoney 
+We can look at PE ratios on ultrasound.money
 
 ![](https://i.imgur.com/f9N1YCp.png)
 
-/15                                              
+/14                                              
 
 Supply since the Merge +0.01%/y AND we are in a bear market.
 
 Zooming out, we are likely to burn more than 1%/y
 => Negative supply growth  
 
-Eventually, supply will find a new equilibrium.
+Eventually, supply will find its' new equilibrium.
 
 ![](https://i.imgur.com/H65AhLb.png)
 
-/16                                              
+/15                                              
 
 🦇🔊 - Ultrasound money meme 
 
-Put the bat signal and join ultrasound fam and spread the meme! 
+Put the bat signal and join @ultrasoundmoney fam and spread the meme! 
 
 ![](https://i.imgur.com/1jlK5a0.png)
 
-/17                                              
+/16                                              
 
 🔒Security of Ethereum is ♻️ sustainable because of 💨 fees spent and 🔥 burned ? 
 
@@ -245,7 +246,7 @@ Application layer:
 
 ・@AaveAave uses 0.5M Ξ for decentralized loans
 
-/18                                              
+/17                                              
 
 ETH is a pristine collateral🧊:
 
@@ -266,7 +267,7 @@ To stabilize $ETH =>🏦decentralized stablecoins that are backed by Ether.
 🪙Current Economical Bandwidth used for that would be 2M Ξ
 
 ![](https://i.imgur.com/9tJW695.png)
-/19                                              
+/18                                              
 
 ΞETH is the perfect collateral money🧊  
 
