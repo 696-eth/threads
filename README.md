@@ -392,7 +392,7 @@ However someone else would come in with their ETH to stake to compensate for the
 /29
 
 
-Think of it as:
+Think of it this way:
 Total amount of Ether is an illiquid iceberg.
 You melt a portion but another amount of ice grows on the other side.
 Thus making it impossible to fully melt.
