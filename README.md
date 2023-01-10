@@ -376,10 +376,12 @@ Potential future where Ethereum has succeeded in becoming the settlement layer f
 
 Bonus:
 
-Q:
+Q: how will LSDs reduce illiquid premium?
 
-A: LSD allow to get the priveleage of unstaking immediately while paying a small fee to Marketmakers, thus market makers unstaking some ETH but someone else would come in with ETH to stake because of equilibrium. 
-Total # of E = illiquid iceberg
+A: LSDs allow to get the priveleage of unstaking immediately while paying a small fee to Marketmakers for their job but market makers still need to unstake some ETH, however someone else would come in with ETH to stake, thus maintaning the equilibrium of ETH staked🥩 
+
+Metaphor:
+Total # of E = illiquid iceberg = [1 /💧%]
 cant melt cause melting a part creates another ice on the other side
 
 same as induced demand
