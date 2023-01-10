@@ -123,7 +123,9 @@ Looking closer into each one 👇
 
 🔒Security
 
-Security ratio = Total Value Secured (TVL) / economic security
+Security ratio = Total Value Secured (TVS) / economic security
+
+= value secured by Ethereum / valuing securing Ethereum 🥩
 
 The lower Security Ratio the better
 
