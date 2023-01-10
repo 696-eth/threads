@@ -52,7 +52,7 @@ ETH - internet money
 
 ETH and Ethereum are interconnected 
 
-![3](https://i.imgur.com/RKLYUV8.png)
+![](https://i.imgur.com/RKLYUV8.png)
 /3 
 
 🌡️ Temperature of money - velocity.
@@ -67,7 +67,7 @@ Spectrum of:
 
 ・Gas 💨
 
-![4](https://i.imgur.com/TQRHIoU.png)
+![](https://i.imgur.com/TQRHIoU.png)
 /4                                              
 
                                               
@@ -77,7 +77,7 @@ Layer 1 (Mainnet)
 
 💨Fees = 🔥burning Liquidity  
 
-![5](https://i.imgur.com/bodQW48.png)
+![](https://i.imgur.com/bodQW48.png)
 /5
                                               
 Layer 2
@@ -92,7 +92,7 @@ Usually people think of: money => current => high velocity use cases
 
 Need to focus on LOW velocity use cases too
 
-![6](https://i.imgur.com/wklP2Cr.png)
+![](https://i.imgur.com/wklP2Cr.png)
 /6
                                               
 Recap so far:
@@ -107,7 +107,7 @@ Recap so far:
 
 🔁Transacting => Economic Activity
 
-![7](https://i.imgur.com/H9BCHMn.png)
+![](https://i.imgur.com/H9BCHMn.png)
 
 /7
                                               
@@ -135,7 +135,7 @@ Current Security ratio is 19x with 0.39T USD as TVL with the following distribut
 
 ・NFTs - $23B
 
-![9](https://i.imgur.com/edcMLlI.png)
+![](https://i.imgur.com/edcMLlI.png)
 
 /9
                                               
@@ -145,7 +145,7 @@ $2️0B of economic security. Good or Bad? 🤔
 
 📈ENDGAME: Trillions of $ of economic security
 
-![10](https://i.imgur.com/QW2yQx5.png)
+![](https://i.imgur.com/QW2yQx5.png)
 
 /10       
                                               
@@ -160,7 +160,7 @@ $2️0B of economic security. Good or Bad? 🤔
 
 ♨️Hot - issuing ETH for validators 🖨️ 
 
-![11](https://i.imgur.com/T4jGT6X.png)
+![](https://i.imgur.com/T4jGT6X.png)
 
 /11
                                               
@@ -174,7 +174,7 @@ When amount of ETH
 
 ・16M ETH = 4%
 
-![12](https://i.imgur.com/HnTlcQ9.png)
+![](https://i.imgur.com/HnTlcQ9.png)
 
 /12 
                                               
@@ -184,7 +184,7 @@ Importance of $ETH price.
 
 To get to Trillions of $ we need more ETH staked (2x) and price needs to go up (25x)
 
-![13](https://i.imgur.com/bIjGNg7.png)
+![](https://i.imgur.com/bIjGNg7.png)
 
 /13   
                                               
@@ -198,7 +198,7 @@ Optimal issuance = relatively small issuance => ossification 🦴
 
 Now it's very clear that ETH is critical to the security 🔒 
 
-![14](https://i.imgur.com/83ewASB.png)
+![](https://i.imgur.com/83ewASB.png)
 
 /14                                              
 
@@ -220,7 +220,7 @@ Profits = 🔥burn - issuance 🖨️
 
 We can look at PE ratios on @ultrasoundmoney 
 
-![15](https://i.imgur.com/f9N1YCp.png)
+![](https://i.imgur.com/f9N1YCp.png)
 
 /15                                              
 
@@ -233,7 +233,7 @@ if we zoom out.
 
 Eventually supply will find a new equilibrium☯️
 
-![16](https://i.imgur.com/H65AhLb.png)
+![](https://i.imgur.com/H65AhLb.png)
 
 /16                                              
 
@@ -241,7 +241,7 @@ Eventually supply will find a new equilibrium☯️
 
 Put the bat signal and join ultrasound fam and spread the meme! 
 
-![17](https://i.imgur.com/1jlK5a0.png)
+![](https://i.imgur.com/1jlK5a0.png)
 
 /17                                              
 
@@ -279,7 +279,7 @@ To stabilize $ETH => decentralized stablecoins 🏦that are baked by Ether.
 
 🪙Current Economical Bandwidth used for that would be 2M Ξ
 
-![19](https://i.imgur.com/9tJW695.png)
+![](https://i.imgur.com/9tJW695.png)
 /19                                              
 
 ΞETH is the perfect collateral money🧊  
@@ -294,7 +294,7 @@ Grow collateral by 15x.
 
 But then then ETH price has to grow for us to reach trillions.
 
-![20](https://i.imgur.com/zGJK1SP.png)
+![](https://i.imgur.com/zGJK1SP.png)
 
 /20                                              
 
@@ -310,7 +310,7 @@ ETH market cap = [mcap of 💧] x [1 /💧%]
 
 in 10 years? might be 5x => mcap of ETH x4!
 
-![21](https://i.imgur.com/NNPP9Nv.png)
+![](https://i.imgur.com/NNPP9Nv.png)
 
 /21                                              
 
@@ -338,7 +338,7 @@ Needs Scaling🌊
 
 🪙The only resources is needed for blockchains to consume
 
-![22](https://i.imgur.com/Jb6YvvZ.png)
+![](https://i.imgur.com/Jb6YvvZ.png)
 
 /22                                              
 
@@ -350,7 +350,7 @@ How much each TX needs to Pay for Ethereum to be sustainable ♻️?
 
 ⬇️ 1million x => 3gwei/tx
 
-![23](https://i.imgur.com/wHYZCFS.png)
+![](https://i.imgur.com/wHYZCFS.png)
 /23                                              
 
 🔒🚗Blockspace is a big business 💰  
@@ -361,7 +361,7 @@ Induced demand: more 🚗blockspace => 🚗blockspace gets cheaper => attracting
 
 Thus, it is going to unlock more activity!
 
-![24](https://i.imgur.com/IJC7IRB.png)
+![](https://i.imgur.com/IJC7IRB.png)
 
 /24                                              
                                               
@@ -379,7 +379,7 @@ Big picture summary:
 
 🌊Scalability in play => tiny tx fees ✖️ many transactions / second => 💵𝘏𝘶𝘨𝘦 Income => Security 🔒
 
-![25](https://i.imgur.com/dCw9p7e.png)
+![](https://i.imgur.com/dCw9p7e.png)
 
 /25
 
