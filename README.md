@@ -15,7 +15,7 @@ Start
                                               
 1/26 🧵 
 
-This @ultrasoundmoney 🦇🔊 talk from #devcon 6 is a 𝐌𝐔𝐒𝐓 𝐖𝐀𝐓𝐂𝐇 but here's it's in a text format 👇 
+This @ultrasoundmoney 🦇🔊 talk from #devcon 6 by Justin Drake is a 𝐌𝐔𝐒𝐓 𝐖𝐀𝐓𝐂𝐇 - here it's in a text format 👇 
 
 Speaker(s): @drakefjustin 
 
