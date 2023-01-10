@@ -190,7 +190,7 @@ Now it's very clear that ETH is critical to Ethereum's security 🔒
 
 ♻️ Sustainability
 
-Ethereum as a company. 
+Assessing Ethereum as a company. 
 
 Profits = income - expenses
 
