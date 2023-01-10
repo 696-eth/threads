@@ -330,7 +330,7 @@ Needs Scaling🌊
 
 Ultra sound barrier 🦇 🔊 🚧
 
-How much each TX needs to Pay for Ethereum to be sustainable♻️? 
+How much does each TX need to Pay for Ethereum to be sustainable♻️? 
 
 ♻️ Sustainability = 💵 enough income to pay for 🔒 
 
