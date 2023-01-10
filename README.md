@@ -376,14 +376,15 @@ Potential future where Ethereum has succeeded in becoming the settlement layer f
 
 Bonus:
 
-Q: how will LSDs reduce illiquid premium?
+Q: how will LSDs (liquid staking derivatives) reduce illiquid premium?
 
-A: LSDs allow to get the priveleage of unstaking immediately while paying a small fee to Marketmakers for their job but market makers still need to unstake some ETH, however someone else would come in with ETH to stake, thus maintaning the equilibrium of ETH staked🥩 
+A: Main of the main uses of LSDs is to have leverage, hence locking LSDs, thus making these tokens illiquid. 
 
-Metaphor:
-Total # of E = illiquid iceberg = [1 /💧%]
-cant melt cause melting a part creates another ice on the other side
+More important reason is that the cost of money overtime, which let's says, is fixed at 3%. LSDs allow you to get the priveleage of unstaking immediately while paying a small fee to Marketmakers for their job of unstaking Ether on your behalf, however someone else would come in with their ETH to stake to compensate for the removal of stake. The reason is that - in equilibrium - amount of ETH staked should correspond to the cost of money.
 
+Think of it as:
+Total amount of E is an illiquid iceberg
+You melt a portion but another amount of ice grows on the other side, thus making it impossible to fully melt.
 same as induced demand
                                               
 ---
