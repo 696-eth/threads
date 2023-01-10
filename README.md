@@ -41,6 +41,10 @@ Discussed unique dynamics arising from:
 🥩 staking (Ξ for economic security 🔒 )
 🧊 collateral -defi (Ξ for economic bandwidth🪙)
 
+![1](https://i.imgur.com/qhCCzNb.png)
+
+![]()
+
 /2
                                               
 ⚠️Ether - asset - critical part of Ethereum - internet settlement.
@@ -50,6 +54,8 @@ Discussed unique dynamics arising from:
 🌐ETH - internet money 💧 
 
 🤝ETH and Ethereum are interconnected  
+
+![]()
 
 /3 
 
@@ -61,7 +67,7 @@ Spectrum of:
 ・Solid 🧊 
 ・Liquid 💧 
 ・Gas 💨
-
+![]()
 /4                                              
 
                                               
@@ -69,7 +75,7 @@ Layer 1 (Mainnet)
 
 🥩Staking = freezing Liquidity  
 💨Fees = 🔥burning Liquidity  
-
+![]()
 /5
                                               
 Layer 2
@@ -82,7 +88,7 @@ Layer 2
 Usually people think of: money => current => high velocity use cases
 
 Need to focus on LOW velocity use cases too
-
+![]()
 /6
                                               
 Recap so far:
@@ -91,7 +97,7 @@ Recap so far:
 💨Spent =>🔥Base fees => ♻️Sustainability, Economic Security 
 🪙Application layer => Economic Bandwidth
 🔁Transacting => Economic Activity
-
+![]()
 /7
                                               
 2 Economies:
@@ -123,7 +129,7 @@ $2️0B of economic security. Good or Bad? 🤔
 🔒Most secure blockchain! 2x of #bitcoin
 
 📈ENDGAME: Trillions of $ of economic security
-
+![]()
 /10       
                                               
                                               
@@ -134,7 +140,7 @@ $2️0B of economic security. Good or Bad? 🤔
 2 parts to staking:
 ❄️Cold - freezing - stake 🥩
 ♨️Hot - issuing ETH for validators 🖨️ 
-
+![]()
 /11
                                               
 🌾Yield from issuance 🖨️ : 
@@ -144,7 +150,7 @@ When amount of ETH
 
 ・4M ETH staked = 8% Yield
 ・16M ETH = 4%
-
+![]()
 /12 
                                               
 ☯️ Equilibrium between🌾 Yield and Issuance🖨️
@@ -152,7 +158,7 @@ When amount of ETH
 Importance of $ETH price.
 
 To get to Trillions of $ we need more ETH staked (2x) and price needs to go up (25x)
-
+![]()
 /13   
                                               
 Minimizing the cost of security 🔒
@@ -164,7 +170,7 @@ After the Merge the issuance has go down by more than 20x compared to genesis =>
 Optimal issuance = relatively small issuance => ossification 🦴 
 
 Now it's very clear that ETH is critical to the security 🔒 
-
+![]()
 /14                                              
 
 ♻️ Sustainability
@@ -184,7 +190,7 @@ or in other words
 Profits = 🔥burn - issuance 🖨️
 
 We can look at PE ratios on @ultrasoundmoney 
-
+![]()
 /15                                              
 
 Supply since the Merge +0.01%/y and we are in a bear market.
@@ -195,7 +201,7 @@ if we zoom out.
 => Negative supply growth 📉 
 
 Eventually supply will find a new equilibrium☯️
-
+![]()
 /16                                              
 
 🦇🔊 - Ultrasound money meme 
@@ -214,7 +220,7 @@ Application layer:
 Ξ used in DEFI.
 ・@MakerDAO uses 1.4M Ξ as collateral for decentralized stablecoin
 ・@AaveAave uses 0.5M Ξ for decentralized loans
-
+![]()
 /18                                              
 
 ETH is a pristine collateral🧊:
@@ -243,7 +249,7 @@ We need Trillions.
 Grow collateral by 15x.
 
 But then then ETH price has to grow for us to reach trillions.
-
+![]()
 /20                                              
 
 Illiquidity multiplier - [1 /💧%]:
@@ -257,7 +263,7 @@ ETH market cap = [mcap of 💧] x [1 /💧%]
 [ 1 /💧%] today = 1.25x
 
 in 10 years? might be 5x => mcap of ETH x4!
- 
+![]() 
 /21                                              
 
 🔁Activity:
@@ -275,7 +281,7 @@ Needs Scaling🌊
 ・Nielsen's law (Moore's law for 🪙Bandwidth) 
 
 🪙The only resources is needed for blockchains to consume
-
+![]()
 /22                                              
 
 Ultra sound barrier 🦇 🔊 🚧
@@ -285,7 +291,7 @@ How much each TX needs to Pay for Ethereum to be sustainable ♻️?
 ♻️ Sustainability = 💵 enough income to pay for 🔒 
 
 ⬇️ 1million x => 3gwei/tx
-
+![]()
 /23                                              
 
 🔒🚗Blockspace is a big business 💰  
@@ -295,10 +301,10 @@ Daily blockspace sales have been growing 📈
 Induced demand: more 🚗blockspace => 🚗blockspace gets cheaper => more demand. 
 
 Thus, it is going to unlock more activity!
-
+![]()
 /24                                              
                                               
-Big picture summary - long-term:
+Big picture summary:
 
 💧Total Supply - 100M ETH:
 
@@ -308,6 +314,8 @@ Big picture summary - long-term:
 💵Income $1Bs/day from selling 🚗blockspace
 
 🌊Scalability in play => tiny tx fees ✖️ many transactions / second => 💵𝘏𝘶𝘨𝘦 Income => Security 🔒
+![]()
+/25
 
 💦Currency - 33M ETH
 🏦Stablecoins - $10Ts
@@ -316,7 +324,7 @@ Big picture summary - long-term:
 🪙Bandwidth - $10Ts
 
 Potential future where Ethereum has succeeded in becoming the settlement layer for the intent of value! 
-
+![]()
 /26                                              
                                               
                                               
