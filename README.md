@@ -300,17 +300,7 @@ in 10 years? might be 5x => mcap of ETH x4!
 
 /21                                              
 
-🔁Activity:
-
-・fluidity 
-
-・liquidity
-
-・diversity
-
-・vitality
-
-Needs Scaling🌊 
+🔁Activity needs Scaling🌊 
 
 𝙏𝙝𝙚 𝙎𝙪𝙧𝙜𝙚 𝙞𝙨 𝙘𝙤𝙢𝙞𝙣𝙜!
 
@@ -328,9 +318,9 @@ Needs Scaling🌊
 
 /22                                              
 
-Ultra sound barrier 🦇 🔊 🚧
+🦇 🔊 🚧Ultra sound barrier:
 
-How much does each TX need to Pay for Ethereum to be sustainable♻️? 
+How much does each TX need to Pay for Ethereum to be sustainable? 
 
 ♻️ Sustainability = 💵 enough income to pay for 🔒 
 
@@ -339,7 +329,7 @@ With 🌊Scalability: 1million x transactions => 3gwei/tx ♻️
 ![](https://i.imgur.com/wHYZCFS.png)
 /23                                              
 
-🔒🚗Blockspace is a big business 💰  
+🔒🚗Blockspace is a big business  
 
 Daily🚗blockspace sales have been growing 📈
 
