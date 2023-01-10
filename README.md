@@ -129,11 +129,11 @@ Current Security ratio is 19x with $390T as TVL with the following distribution:
 
 /9
                                               
-$2️0B of economic security. Good or Bad? 🤔 
+$2️0B of economic security. Good or Bad?
 
-🔒Most secure blockchain! 2x of #bitcoin
+Most secure blockchain! 2x of #bitcoin
 
-📈ENDGAME: Trillions of $ of economic security
+ENDGAME: Trillions of $ of economic security
 
 ![](https://i.imgur.com/QW2yQx5.png)
 
@@ -214,14 +214,12 @@ We can look at PE ratios on @ultrasoundmoney
 
 /15                                              
 
-Supply since the Merge +0.01%/y and we are in a bear market.
+Supply since the Merge +0.01%/y AND we are in a bear market.
 
-if we zoom out. 
-
-We are probably going to burn more than 1%/y
+Zooming out, we are likely to burn more than 1%/y
 => Negative supply growth  
 
-Eventually supply will find a new equilibrium.
+Eventually, supply will find a new equilibrium.
 
 ![](https://i.imgur.com/H65AhLb.png)
 
@@ -235,15 +233,13 @@ Put the bat signal and join ultrasound fam and spread the meme!
 
 /17                                              
 
-Ethereum needs security 🔒 
-
-It would be sustainable cause of fees collected and gas burned 
+🔒Security of Ethereum is ♻️ sustainable because of 💨 fees spent and 🔥 burned ? 
 
 What about Economic Bandwidth 🪙 ?
 
 Application layer:
 
-Ξ used in DEFI.
+🧊Ξ used in DEFI.
 
 ・@MakerDAO uses 1.4M Ξ as collateral for decentralized stablecoin
 
