@@ -101,7 +101,7 @@ Need to focus on LOW velocity use cases too: using ETH as a collateral is a use 
 
 ❄️ Cold economy:🥩Staked => Security 🔒 + 🧊 Application layer => Economic Bandwidth🪙
 
-♨️ HOT economy:💨Spent =>🔥Base fees => ♻️Sustainability + 🔁Transacting => Economic Activity💦
+♨️ HOT economy:💨Spent =>🔥Base fees => ♻️Sustainability + 🔁Transacting => Economic Activity of Currency💦
 
 ![](https://i.imgur.com/H9BCHMn.png)
 
