@@ -24,14 +24,14 @@ Keywords: $ETH , $ether , economics
 
 https://www.youtube.com/watch?v=2ZuGVLhhxQo&ab_channel=EthereumFoundation
 
+![1](https://i.imgur.com/qhCCzNb.png)
+
 A big picture for ETH the asset and its macro cashflows. 
 Discussed unique dynamics arising from:
 💨 fee burn🔥 (Ξ for🚗 blockspace payments)
 🖨️ issuance (Ξ for validator incentivization)
 🥩 staking (Ξ for economic security 🔒 )
 🧊 collateral -defi (Ξ for economic bandwidth🪙)
-
-![1](https://i.imgur.com/qhCCzNb.png)
 
 
 /2
@@ -40,7 +40,7 @@ Discussed unique dynamics arising from:
 
 ⛔No Ether => No Ethereum :stop
 
-🌐ETH - internet money 💧 
+🌐ETH - internet money 
 
 🤝ETH and Ethereum are interconnected  
 
@@ -159,7 +159,7 @@ After the Merge the issuance has go down by more than 20x compared to genesis =>
 Optimal issuance = relatively small issuance => ossification 🦴 
 
 Now it's very clear that ETH is critical to the security 🔒 
-![]()
+![14](https://i.imgur.com/83ewASB.png)
 /14                                              
 
 ♻️ Sustainability
@@ -179,7 +179,7 @@ or in other words
 Profits = 🔥burn - issuance 🖨️
 
 We can look at PE ratios on @ultrasoundmoney 
-![]()
+![15](https://i.imgur.com/f9N1YCp.png)
 /15                                              
 
 Supply since the Merge +0.01%/y and we are in a bear market.
@@ -190,13 +190,14 @@ if we zoom out.
 => Negative supply growth 📉 
 
 Eventually supply will find a new equilibrium☯️
-![]()
+![16](https://i.imgur.com/H65AhLb.png)
 /16                                              
 
 🦇🔊 - Ultrasound money meme 
 
 Put the bat signal and join ultrasound fam and spread the meme! 
 
+![17](https://i.imgur.com/1jlK5a0.png)
 /17                                              
 
 Ethereum need security 🔒 
@@ -209,7 +210,7 @@ Application layer:
 Ξ used in DEFI.
 ・@MakerDAO uses 1.4M Ξ as collateral for decentralized stablecoin
 ・@AaveAave uses 0.5M Ξ for decentralized loans
-![]()
+
 /18                                              
 
 ETH is a pristine collateral🧊:
@@ -224,7 +225,7 @@ ETH is a pristine collateral🧊:
 To stabilize $ETH => decentralized stablecoins 🏦that are baked by Ether.
 
 🪙Current Economical Bandwidth used for that would be 2M Ξ
-
+![19](https://i.imgur.com/9tJW695.png)
 /19                                              
 
 ΞETH is the perfect collateral money🧊  
@@ -238,7 +239,7 @@ We need Trillions.
 Grow collateral by 15x.
 
 But then then ETH price has to grow for us to reach trillions.
-![]()
+![20](https://i.imgur.com/zGJK1SP.png)
 /20                                              
 
 Illiquidity multiplier - [1 /💧%]:
@@ -252,7 +253,7 @@ ETH market cap = [mcap of 💧] x [1 /💧%]
 [ 1 /💧%] today = 1.25x
 
 in 10 years? might be 5x => mcap of ETH x4!
-![]() 
+![21](https://i.imgur.com/NNPP9Nv.png) 
 /21                                              
 
 🔁Activity:
@@ -270,7 +271,7 @@ Needs Scaling🌊
 ・Nielsen's law (Moore's law for 🪙Bandwidth) 
 
 🪙The only resources is needed for blockchains to consume
-![]()
+![22](https://i.imgur.com/Jb6YvvZ.png)
 /22                                              
 
 Ultra sound barrier 🦇 🔊 🚧
@@ -280,7 +281,7 @@ How much each TX needs to Pay for Ethereum to be sustainable ♻️?
 ♻️ Sustainability = 💵 enough income to pay for 🔒 
 
 ⬇️ 1million x => 3gwei/tx
-![]()
+![23](https://i.imgur.com/wHYZCFS.png)
 /23                                              
 
 🔒🚗Blockspace is a big business 💰  
@@ -290,7 +291,7 @@ Daily blockspace sales have been growing 📈
 Induced demand: more 🚗blockspace => 🚗blockspace gets cheaper => more demand. 
 
 Thus, it is going to unlock more activity!
-![]()
+![24](https://i.imgur.com/IJC7IRB.png)
 /24                                              
                                               
 Big picture summary:
@@ -303,7 +304,7 @@ Big picture summary:
 💵Income $1Bs/day from selling 🚗blockspace
 
 🌊Scalability in play => tiny tx fees ✖️ many transactions / second => 💵𝘏𝘶𝘨𝘦 Income => Security 🔒
-![]()
+![25](https://i.imgur.com/dCw9p7e.png)
 /25
 
 💦Currency - 33M ETH
@@ -313,7 +314,7 @@ Big picture summary:
 🪙Bandwidth - $10Ts
 
 Potential future where Ethereum has succeeded in becoming the settlement layer for the intent of value! 
-![]()
+
 /26                                              
                                               
                                               
