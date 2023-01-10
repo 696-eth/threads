@@ -70,8 +70,7 @@ Spectrum of:
 ![](https://i.imgur.com/TQRHIoU.png)
 /4                                              
 
-                                              
-Layer 1 (Mainnet)
+Usages:                                               
 
 🥩Staking = freezing Liquidity  
 
@@ -91,7 +90,7 @@ Layer 2
 
 Usually people think of 'money' => current => high velocity use cases
 
-Need to focus on LOW velocity use cases too
+Need to focus on LOW velocity use cases too: using ETH as a collateral is a use of money!
 
 ![](https://i.imgur.com/wklP2Cr.png)
 /6
