@@ -127,7 +127,7 @@ Security ratio = Total Value Secured (TVL) / economic security
 
 The lower Security Ratio the better
 
-Current Security ratio is 19x with 0.39T USD as TVL with the following distribution:
+Current Security ratio is 19x with $390T as TVL with the following distribution:
 
 ・ETH - $162B 
 
