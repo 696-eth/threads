@@ -322,7 +322,7 @@ Needs Scaling🌊
 
 ・Nielsen's law (Moore's law for 🪙Bandwidth) 
 
-🪙The only resource is needed for blockchains to consume
+🪙Bandwidth is the only resource that is needed for blockchains to consume
 
 ![](https://i.imgur.com/Jb6YvvZ.png)
 
