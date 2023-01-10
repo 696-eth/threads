@@ -271,13 +271,12 @@ To stabilize $ETH =>🏦decentralized stablecoins that are backed by Ether.
 
 While ΞETH is the perfect collateral money🧊  
 
-We currently only have:
-$2B in 🏦decentralized stablecoins baked by ETH
-$14B staked🥩
+We currently only have $1B in 🏦decentralized stablecoins baked by ETH
 
 We can grow the collateral by 15x.
 
-However, to reach trillions we need the price of $ETH to grow too
+However, to reach trillions, the $ETH would have to grow too by (x66).
+
 That's why, again, ETH price is important.
 
 ![](https://i.imgur.com/zGJK1SP.png)
