@@ -104,7 +104,7 @@ Need to focus on the LOW velocity use cases too: using ETH as a collateral is a 
 
 ♨️ HOT economy:💨Spent =>🔥Base fees => ♻️Sustainability + 🔁Transacting => Economic Activity of Currency💦
 
-![](https://i.imgur.com/H9BCHMn.png)
+![](https://i.imgur.com/cgxusLm.png)
 
 /7
                                               
