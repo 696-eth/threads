@@ -27,7 +27,7 @@ Keywords: $ETH , $ether , economics
 
 https://www.youtube.com/watch?v=2ZuGVLhhxQo&ab_channel=EthereumFoundation
 
-![](https://i.imgur.com/qhCCzNb.png)
+![](https://i.imgur.com/iUKtFv3.png)
 
 A big picture for ETH the asset and its macro cashflows. 
 
