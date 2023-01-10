@@ -180,11 +180,11 @@ Minimizing the cost of security.
 
 Issuance dilutes the holders.
 
-After the Merge the issuance has go down by more than 20x compared to genesis =>
+After the Merge the issuance has gone down by more than 20x compared to genesis =>
 
 Optimal issuance = relatively small issuance => ossification 
 
-Now it's very clear that ETH is critical to the security 🔒 
+Now it's very clear that ETH is critical to Ethereum's security 🔒 
 
 ![](https://i.imgur.com/83ewASB.png)
 
