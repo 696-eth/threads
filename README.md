@@ -156,7 +156,7 @@ Staking has 2 parts:
                                               
 🌾Yield from issuance🖨️: 
 
-🥩ETH increases by 4x - Yield goes down by 2x:
+🥩ETH increases by 4x - Yield goes down by 2x🌾:
 
 ・4M ETH staked = 8% Yield
 
