@@ -144,7 +144,7 @@ $2️0B of economic security. Good or Bad? 🤔
 
 🖨️Issuances incentivizes people to Stake 🥩
 
-2️⃣ parts to staking:
+Staking has 2 parts:
 
 ❄️Cold - freezing - stake 🥩
 
@@ -154,9 +154,9 @@ $2️0B of economic security. Good or Bad? 🤔
 
 /11
                                               
-🌾Yield from issuance 🖨️ : 
+Yield from issuance🖨️: 
 
-When amount of ETH staked increases by 4x 🥩- Yield goes down by 2x 🌾
+🥩ETH increases by 4x - Yield goes down by 2x:
 
 ・4M ETH staked = 8% Yield
 
@@ -182,7 +182,7 @@ Issuance dilutes the holders.
 
 After the Merge the issuance has go down by more than 20x compared to genesis =>
 
-Optimal issuance = relatively small issuance => ossification 🦴 
+Optimal issuance = relatively small issuance => ossification 
 
 Now it's very clear that ETH is critical to the security 🔒 
 
