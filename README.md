@@ -162,13 +162,17 @@ Staking has 2 parts:
 
 ・16M ETH = 4%
 
+🌾Yield and 🖨️ issuance together create a natural 🥩 stake equilibrium
+
 ![](https://i.imgur.com/HnTlcQ9.png)
 
 /12 
                                               
-Equilibrium between🌾Yield and Issuance🖨️And Importance of $ETH price.
+Equilibrium may be reached at ~2x ETH staked🥩
 
-To get to Trillions of $ we need more ETH staked (2x) and price needs to go up (25x)
+But Ether appreciating (x25) gets to trillions of $ Economic security.
+
+That's why ETH price is important.
 
 ![](https://i.imgur.com/bIjGNg7.png)
 
