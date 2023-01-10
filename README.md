@@ -194,7 +194,7 @@ Now it's very clear that ETH is critical to Ethereum's security 🔒
 
 ♻️ Sustainability
 
-Assessing Ethereum as a company. 
+Assessing Ethereum as a *hypothetical* company. 
 
 Profits = income - expenses
 
@@ -261,7 +261,7 @@ ETH is a pristine collateral🧊:
 
 ❌ volatility
 
-To stabilize $ETH =>🏦decentralized stablecoins that are baked by Ether.
+To stabilize $ETH =>🏦decentralized stablecoins that are backed by Ether.
 
 🪙Current Economical Bandwidth used for that would be 2M Ξ
 
