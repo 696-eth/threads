@@ -402,9 +402,10 @@ Thus making it impossible to fully melt.
 
 If you learned something or enjoyed yourself, please spread the word by retweeting the tweet below.
 
-Follow @drakefjustin. 
+Follow @drakefjustin.
 Join the @ultrasoundmoney fam by putting🦇🔊in your profile/bio.
 Check out their amazing website - ultrasound.money
+Editing assisted by: @austonst
 
 /31
                                               
