@@ -378,14 +378,35 @@ Bonus:
 
 Q: how will LSDs (liquid staking derivatives) reduce illiquid premium?
 
-A: Main of the main uses of LSDs is to have leverage, hence locking LSDs, thus making these tokens illiquid. 
+A: One of the main uses of LSDs is to have leverage, hence locking LSDs, thus making these tokens illiquid.
 
-More important reason is that the cost of money overtime, which let's says, is fixed at 3%. LSDs allow you to get the priveleage of unstaking immediately while paying a small fee to Marketmakers for their job of unstaking Ether on your behalf, however someone else would come in with their ETH to stake to compensate for the removal of stake. The reason is that - in equilibrium - amount of ETH staked should correspond to the cost of money.
+/27
+
+
+But more important reason is the cost of money overtime. LSDs allow you to get the privilege of unstaking immediately while paying a small fee to Market makers for their job of actually unstaking Ether on your behalf.
+
+/28
+
+
+However someone else would come in with their ETH to stake to compensate for the removal of stake. The reason for that is in equilibrium: amount of ETH staked should correspond to the cost of money.
+
+/29
+
 
 Think of it as:
-Total amount of E is an illiquid iceberg
-You melt a portion but another amount of ice grows on the other side, thus making it impossible to fully melt.
-same as induced demand
+Total amount of Ether is an illiquid iceberg.
+You melt a portion but another amount of ice grows on the other side.
+Thus making it impossible to fully melt.
+
+/30
+
+If you learned something or enjoyed yourself, please spread the word by retweeting the tweet below.
+
+Follow @drakefjustin. 
+Join the @ultrasoundmoney fam by putting🦇🔊in your profile/bio.
+Check out their amazing website - ultrasound.money
+
+/31
                                               
 ---
                                               
