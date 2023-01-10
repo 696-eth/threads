@@ -88,7 +88,7 @@ Layer 2
 
 💦Currency = comes from word 'current' = money that's moving
 
-Usually people think of: money => current => high velocity use cases
+Usually people think of 'money' => current => high velocity use cases
 
 Need to focus on LOW velocity use cases too
 
@@ -154,7 +154,7 @@ $2️0B of economic security. Good or Bad? 🤔
 
 🖨️Issuances incentivizes people to Stake 🥩
 
-2 parts to staking:
+2️⃣ parts to staking:
 
 ❄️Cold - freezing - stake 🥩
 
@@ -166,9 +166,7 @@ $2️0B of economic security. Good or Bad? 🤔
                                               
 🌾Yield from issuance 🖨️ : 
 
-When amount of ETH 
-
-🥩staked increases by 4x - Yield goes down by 2x 🌾
+When amount of ETH staked increases by 4x 🥩- Yield goes down by 2x 🌾
 
 ・4M ETH staked = 8% Yield
 
@@ -178,7 +176,7 @@ When amount of ETH
 
 /12 
                                               
-☯️ Equilibrium between🌾 Yield and Issuance🖨️
+Equilibrium between🌾 Yield and Issuance🖨️
 
 Importance of $ETH price.
 
@@ -188,9 +186,9 @@ To get to Trillions of $ we need more ETH staked (2x) and price needs to go up (
 
 /13   
                                               
-Minimizing the cost of security 🔒
+Minimizing the cost of security.
 
-🖨️Issuance deludes the holders.
+Issuance deludes the holders.
 
 After the Merge the issuance has go down by more than 20x compared to genesis =>
 
@@ -228,10 +226,10 @@ Supply since the Merge +0.01%/y and we are in a bear market.
 
 if we zoom out. 
 
-🔥 We are probably going to burn more than 1%/y
-=> Negative supply growth 📉 
+We are probably going to burn more than 1%/y
+=> Negative supply growth  
 
-Eventually supply will find a new equilibrium☯️
+Eventually supply will find a new equilibrium.
 
 ![](https://i.imgur.com/H65AhLb.png)
 
@@ -245,9 +243,9 @@ Put the bat signal and join ultrasound fam and spread the meme!
 
 /17                                              
 
-Ethereum need security 🔒 
+Ethereum needs security 🔒 
 
-Would be sustainable cause of fees collected and gas burned 
+It would be sustainable cause of fees collected and gas burned 
 
 What about Economic Bandwidth 🪙 ?
 
@@ -275,7 +273,7 @@ ETH is a pristine collateral🧊:
 
 ❌ volatility
 
-To stabilize $ETH => decentralized stablecoins 🏦that are baked by Ether.
+To stabilize $ETH =>🏦decentralized stablecoins that are baked by Ether.
 
 🪙Current Economical Bandwidth used for that would be 2M Ξ
 
@@ -336,7 +334,7 @@ Needs Scaling🌊
 
 ・Nielsen's law (Moore's law for 🪙Bandwidth) 
 
-🪙The only resources is needed for blockchains to consume
+🪙The only resource is needed for blockchains to consume
 
 ![](https://i.imgur.com/Jb6YvvZ.png)
 
@@ -344,22 +342,22 @@ Needs Scaling🌊
 
 Ultra sound barrier 🦇 🔊 🚧
 
-How much each TX needs to Pay for Ethereum to be sustainable ♻️? 
+How much each TX needs to Pay for Ethereum to be sustainable♻️? 
 
 ♻️ Sustainability = 💵 enough income to pay for 🔒 
 
-⬇️ 1million x => 3gwei/tx
+With 🌊Scalability: 1million x transactions => 3gwei/tx ♻️
 
 ![](https://i.imgur.com/wHYZCFS.png)
 /23                                              
 
 🔒🚗Blockspace is a big business 💰  
 
-Daily blockspace sales have been growing 📈
+Daily🚗blockspace sales have been growing 📈
 
-Induced demand: more 🚗blockspace => 🚗blockspace gets cheaper => attracting more demand. 
+Induced demand: more 🚗blockspace => 🚗blockspace gets cheaper => attracting more demand 📈 
 
-Thus, it is going to unlock more activity!
+Thus, it is going to unlock more activity🔁
 
 ![](https://i.imgur.com/IJC7IRB.png)
 
