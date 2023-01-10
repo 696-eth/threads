@@ -93,29 +93,17 @@ Usually people think of 'money' => current => high velocity use cases
 Need to focus on LOW velocity use cases too: using ETH as a collateral is a use of money!
 
 ![](https://i.imgur.com/wklP2Cr.png)
-/6
+/6 + 7 combined
                                               
-Recap so far:
-
 💧Liquid ETH - as programmable money can be:
 
-🥩Staked => Security 🔒 
+2️⃣ Economies:
 
-💨Spent =>🔥Base fees => ♻️Sustainability, Economic Security 
+❄️ Cold economy:🥩Staked => Security 🔒 + 🧊 Application layer => Economic Bandwidth🪙
 
-🪙Application layer => Economic Bandwidth
-
-🔁Transacting => Economic Activity
+♨️ HOT economy:💨Spent =>🔥Base fees => ♻️Sustainability, Economic Security + 🔁Transacting => Economic Activity💦
 
 ![](https://i.imgur.com/H9BCHMn.png)
-
-/7
-                                              
-2 Economies:
-
-❄️ Cold economy:🥩🔒Security + 🧊🪙Bandwidth
-
-♨️ HOT economy:🔥Base fees + 🔁activity
 
 /8
                                               
