@@ -44,7 +44,7 @@ Discussed unique dynamics arising from:
 
 /2
                                               
-Ether = asset - critical part of - Ethereum = internet settlement.
+Ether (asset) is a critical part of Ethereum (internet settlement).
 
 No Ether => No Ethereum
 
@@ -78,11 +78,12 @@ Layer 1 (Mainnet)
 💨Fees = 🔥burning Liquidity  
 
 ![](https://i.imgur.com/bodQW48.png)
+
 /5
                                               
 Layer 2
 
-🧊Collateral = through bounding of Liquidity🪙
+🧊Collateral = through bonding of Liquidity🪙
 
 💦Currency = transacting🔁
 
