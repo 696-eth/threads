@@ -154,7 +154,7 @@ Staking has 2 parts:
 
 /11
                                               
-Yield from issuance🖨️: 
+🌾Yield from issuance🖨️: 
 
 🥩ETH increases by 4x - Yield goes down by 2x:
 
@@ -166,9 +166,7 @@ Yield from issuance🖨️:
 
 /12 
                                               
-Equilibrium between🌾 Yield and Issuance🖨️
-
-Importance of $ETH price.
+Equilibrium between🌾Yield and Issuance🖨️And Importance of $ETH price.
 
 To get to Trillions of $ we need more ETH staked (2x) and price needs to go up (25x)
 
