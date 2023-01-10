@@ -350,9 +350,9 @@ Big picture summary:
 
 🔒Security = 33M
 
-🥩🖨️Issuance from stake Ether => 1M/y
+🥩🖨️Issuance from stake Ether => 1M Ξ/y
 
-🔥Burn => 1M/y
+🔥Burn => 1M Ξ/y
 
 💵Income $1Bs/day from selling 🚗blockspace
 
