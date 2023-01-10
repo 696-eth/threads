@@ -370,7 +370,7 @@ Big picture summary:
 
 🪙Bandwidth - $10Ts
 
-Potential future where Ethereum has succeeded in becoming the settlement layer for the intent of value! 
+Potential future where Ethereum has succeeded in becoming the settlement layer for the internet of value! 
 
 /26                                              
                                               
