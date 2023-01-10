@@ -146,7 +146,7 @@ $2️0B of economic security. Good or Bad? 🤔
 
 Staking has 2 parts:
 
-❄️Cold - freezing - stake 🥩
+❄️Cold - freezing by staking 🥩
 
 ♨️Hot - issuing ETH for validators 🖨️ 
 
