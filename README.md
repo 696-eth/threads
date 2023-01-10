@@ -101,7 +101,7 @@ Need to focus on LOW velocity use cases too: using ETH as a collateral is a use 
 
 ❄️ Cold economy:🥩Staked => Security 🔒 + 🧊 Application layer => Economic Bandwidth🪙
 
-♨️ HOT economy:💨Spent =>🔥Base fees => ♻️Sustainability, Economic Security + 🔁Transacting => Economic Activity💦
+♨️ HOT economy:💨Spent =>🔥Base fees => ♻️Sustainability + 🔁Transacting => Economic Activity💦
 
 ![](https://i.imgur.com/H9BCHMn.png)
 
@@ -170,7 +170,7 @@ Staking has 2 parts:
                                               
 Equilibrium may be reached at ~2x ETH staked🥩
 
-But Ether appreciating (x25) gets to trillions of $ Economic security.
+But Ether appreciating (x25) gets to trillions of $ staked🥩= 
 
 That's why ETH price is important.
 
