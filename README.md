@@ -281,7 +281,7 @@ That's why, again, ETH price is important.
 
 ![](https://i.imgur.com/zGJK1SP.png)
 
-/20                                              
+/19                                             
 
 Illiquidity multiplier: 
 
@@ -291,13 +291,13 @@ Cashflows happen within the Liquid part 💧
 
 ETH market cap = [mcap of 💧] x [1 /💧%]
 
-[ 1 /💧%] today = 1.25x
+Illiquidity multiplier = [ 1 /💧%] today = 1.25x
 
 in 10 years? might be 5x => mcap of ETH x4!
 
 ![](https://i.imgur.com/NNPP9Nv.png)
 
-/21                                              
+/20                                              
 
 🔁Activity needs Scaling🌊 
 
@@ -315,7 +315,7 @@ in 10 years? might be 5x => mcap of ETH x4!
 
 ![](https://i.imgur.com/Jb6YvvZ.png)
 
-/22                                              
+/21                                              
 
 🦇 🔊 🚧Ultra sound barrier:
 
@@ -326,7 +326,7 @@ How much does each TX need to Pay for Ethereum to be sustainable?
 With 🌊Scalability: 1million x transactions => 3gwei/tx ♻️
 
 ![](https://i.imgur.com/wHYZCFS.png)
-/23                                              
+/22                                              
 
 🚗Blockspace is a big business  
 
@@ -341,7 +341,7 @@ Unlocks more activity🔁
 
 ![](https://i.imgur.com/IJC7IRB.png)
 
-/24                                              
+/23                                              
                                               
 Big picture summary:
 
@@ -359,7 +359,7 @@ Big picture summary:
 
 ![](https://i.imgur.com/dCw9p7e.png)
 
-/25
+/24
 
 💦Currency - 33M ETH
 
@@ -371,7 +371,7 @@ Big picture summary:
 
 Potential future where Ethereum has succeeded in becoming the settlement layer for the internet of value! 
 
-/26                                              
+/25                                              
 
 Bonus:
 
@@ -379,17 +379,17 @@ Q: how will LSDs (liquid staking derivatives) reduce illiquid premium?
 
 A: One of the main uses of LSDs is to have leverage, hence locking LSDs, thus making these tokens illiquid.
 
-/27
+/26
 
 
 But more important reason is the cost of money overtime. LSDs allow you to get the privilege of unstaking immediately while paying a small fee to Market makers for their job of actually unstaking Ether on your behalf.
 
-/28
+/27
 
 
 However someone else would come in with their ETH to stake to compensate for the removal of stake. The reason for that is in equilibrium: amount of ETH staked should correspond to the cost of money.
 
-/29
+/28
 
 
 Think of it this way:
@@ -397,7 +397,7 @@ Total amount of Ether is an illiquid iceberg.
 You melt a portion but another amount of ice grows on the other side.
 Thus making it impossible to fully melt.
 
-/30
+/39
 
 If you learned something or enjoyed yourself, please spread the word by retweeting the tweet below.
 
@@ -406,7 +406,7 @@ Join the @ultrasoundmoney fam by putting🦇🔊in your profile/bio.
 Check out their amazing website - ultrasound.money
 Editing assisted by: @austonst
 
-/31
+/30
                                               
 ---
                                               
