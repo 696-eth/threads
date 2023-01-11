@@ -13,7 +13,7 @@
 Start
 ----
                                               
-1/30 🧵 
+1/26 🧵 
 
 This @ultrasoundmoney 🦇🔊 talk from #devcon 6 by Justin Drake is a 𝐌𝐔𝐒𝐓 𝐖𝐀𝐓𝐂𝐇 - here it's in a text format 👇 
 
@@ -381,12 +381,6 @@ LSDs don't decrease the illiquidity multiplier cause:
 
 /26
 
-Think of it this way:
-Total amount of Ether is an illiquid iceberg.
-You melt a portion but another amount of ice grows on the other side.
-Thus making it impossible to fully melt.
-
-/27
 
 If you learned something or enjoyed yourself, please spread the word by retweeting the tweet below.
 
@@ -395,7 +389,6 @@ Join the @ultrasoundmoney fam by putting🦇🔊in your profile/bio.
 Check out their amazing website - ultrasound.money
 Editing assisted by: @austonst
 
-/28
                                               
 ---
                                               
