@@ -373,9 +373,9 @@ Potential future where Ethereum has succeeded in becoming the settlement layer f
 
 /25                                              
 
-Bonus:
+Bonus from Q&A:
 
-BTW LSDs don't decrease the illiquidity multiplier cause:
+LSDs don't decrease the illiquidity multiplier cause:
 ・People lock them for leverage
 ・The yield & issuance staking equilibrium keeps total staked ETH in balance
 
