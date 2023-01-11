@@ -375,29 +375,18 @@ Potential future where Ethereum has succeeded in becoming the settlement layer f
 
 Bonus:
 
-Q: how will LSDs (liquid staking derivatives) reduce illiquid premium?
-
-A: One of the main uses of LSDs is to have leverage, hence locking LSDs, thus making these tokens illiquid.
+BTW LSDs don't decrease the illiquidity multiplier cause:
+・People lock them for leverage
+・The yield & issuance staking equilibrium keeps total staked ETH in balance
 
 /26
-
-
-But more important reason is the cost of money overtime. LSDs allow you to get the privilege of unstaking immediately while paying a small fee to Market makers for their job of actually unstaking Ether on your behalf.
-
-/27
-
-
-However someone else would come in with their ETH to stake to compensate for the removal of stake. The reason for that is in equilibrium: amount of ETH staked should correspond to the cost of money.
-
-/28
-
 
 Think of it this way:
 Total amount of Ether is an illiquid iceberg.
 You melt a portion but another amount of ice grows on the other side.
 Thus making it impossible to fully melt.
 
-/39
+/27
 
 If you learned something or enjoyed yourself, please spread the word by retweeting the tweet below.
 
@@ -406,7 +395,7 @@ Join the @ultrasoundmoney fam by putting🦇🔊in your profile/bio.
 Check out their amazing website - ultrasound.money
 Editing assisted by: @austonst
 
-/30
+/28
                                               
 ---
                                               
