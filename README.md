@@ -9,6 +9,8 @@
 
 [EVMavericks Weekly](https://evmavericks-weekly.netlify.app) - *Last updated: 1/9/2023*
 
+[ETH: Ultra Sound Money - Thread](https://twitter.com/696_eth/status/1613599862226038784)
+
 
     
 <a id="github-link" href="https://github.com/etheralpha/evm-updates/" target="_blank">
