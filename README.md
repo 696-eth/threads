@@ -1,15 +1,14 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/deep-blue.css">
 
+*Coming Soon*
+
 [Site](https://696.eth.limo/)
 
 [Twitter - 696.eth](https://twitter.com/696_eth)
 
 [EVMavericks Weekly](https://evmavericks-weekly.netlify.app) - *Last updated: 1/9/2023*
 
-
-                                              
-[Homepage](https://evmavericks-weekly.netlify.app)
 
     
 <a id="github-link" href="https://github.com/etheralpha/evm-updates/" target="_blank">
